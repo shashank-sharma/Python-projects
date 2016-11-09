@@ -1,6 +1,14 @@
 # Python-projects
 
-##1. Tic-Tac-Toe
+##1. Scraping site and plotting graph with given data
+
+In this program I have used 4 links from my college where links consist of faculty member details of each branch. 
+In every link it will try to gather the information regarding teacher experience in each branch. After grabbing these data it will plot graph on plotly showing 'How much experience does teachers have in different branch'
+
+Link: (Here)[https://plot.ly/~shashank-sharma/0/#plot]
+
+
+##2. Tic-Tac-Toe
 
 Tic-Tac-Toe is a game where 2 opponents try to make a series of 3 consecutive symbol (linear or diagonal) and the one who do it first wins.
 In this project I created one Tic-Tac-Toe game using Python programming language. 
