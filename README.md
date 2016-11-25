@@ -1,9 +1,14 @@
 # Python-projects
 
-##1. Scraping site and plotting graph with given data
+##1. Scraping Site
+###1.1 Scraping site and plotting graph with given data
 
 In this program I have used 4 links from my college where links consist of faculty member details of each branch. 
 In every link it will try to gather the information regarding teacher experience in each branch. After grabbing these data it will plot graph on plotly showing 'How much experience does teachers have in different branch'
+
+###1.2 Scraping site and getting all the teachers names
+
+This program will search for similar string from the extracted array from Acropolis website and then it will show all the information related to that name.
 
 Link: [Here](https://plot.ly/~shashank-sharma/0/#plot)
 
