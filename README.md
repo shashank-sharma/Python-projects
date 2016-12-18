@@ -1,10 +1,13 @@
 # Python-projects
 
 ##1. Personal Dictionary-v1.0
+tags - python, beautifulsoup, file handling
 
 Personal Dictionary is a program which usually scrape definition of words from dictionary and then show definition. After finding word it stores both word and definition in a file data.txt. With this program one can save his search result and then later view it by simply typing it.
 
 ##2. Scraping Site
+tags - python, beautifulsoup, plotly
+
 ###1.1 Scraping site and plotting graph with given data
 
 In this program I have used 4 links from my college where links consist of faculty member details of each branch. 
@@ -18,7 +21,7 @@ Link: [Here](https://plot.ly/~shashank-sharma/0/#plot)
 
 
 ##3. Tic-Tac-Toe
-
+tags - python, basic i/o
 Tic-Tac-Toe is a game where 2 opponents try to make a series of 3 consecutive symbol (linear or diagonal) and the one who do it first wins.
 In this project I created one Tic-Tac-Toe game using Python programming language. 
 
